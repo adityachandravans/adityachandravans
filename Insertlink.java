@@ -47,7 +47,7 @@ public class Insertlink {
                 }
                 break;
                 default:
-                System.out.println("invalid choice please enter the choice between 1 to 6");
+                System.out.println("invalid choice please enter the choice between 1 to 8");
               }
             }while(choice<9);
     }
