@@ -42,5 +42,5 @@ Machine learning projects using Python and scikit-learn.
 
 ## 📫 Connect With Me
 
-LinkedIn: your-link
-Email: your-email
+LinkedIn: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BvlFnx8Q5S0%2BYqzA1WokLIw%3D%3D
+Email: chandravanshiaditya25@gmail.com
