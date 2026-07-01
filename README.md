@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**adityachandravans/adityachandravans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Full Stack Developer | AI/ML Enthusiast  
+🚀 Building real-world projects and improving problem solving skills
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Python
+- Java
+- JavaScript
+- C++
+
+### Web Development
+- HTML
+- CSS
+- React
+- Flask
+- Node.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
+
+### E-Commerce Platform
+Full-stack shopping platform using Flask, MongoDB, JWT authentication, payments and admin dashboard.
+
+### AI/ML Projects
+Machine learning projects using Python and scikit-learn.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](your-link)
+
+## 📫 Connect With Me
+
+LinkedIn: your-link
+Email: your-email
